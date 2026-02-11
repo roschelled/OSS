@@ -1,9 +1,9 @@
 # OSS
 
-#first edit
+# first edit
 
 Welcome to my repo
 
-#Second edit
+# Second edit
 
 Hello
